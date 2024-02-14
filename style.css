@@ -1,0 +1,25 @@
+h1{
+    color: black;
+    background-color: coral;
+}
+body{
+    background-color: powderblue;
+}
+div{
+    text-align: justify;
+}
+div.b{
+    font-size: 150%;
+}
+div.a{
+    font-size: 130%;
+}
+div.c{
+    font-size: 115%;
+}
+div.d{
+    font-size: 165%
+}
+h2{
+    background-color: coral;
+}
